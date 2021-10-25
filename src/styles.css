@@ -12,7 +12,7 @@ body {
 a {
   color: black;
   text-decoration: none;
-  border-bottom: 5px solid crimson;
+  border-bottom: 5px solid black;
 }
 
 a:visited {
@@ -20,7 +20,7 @@ a:visited {
 }
 
 a:hover {
-  background-color: crimson;
+  background-color: skyblue;
   color: black;
   border-color: palevioletred;
 }
